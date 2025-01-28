@@ -1,0 +1,1 @@
+This repository contains a MATLAB function with a logic error and its corrected version. The original function, 'myFunction.m', produces incorrect output due to an error in a conditional statement. The corrected version, 'bugSolution.m', addresses this error, ensuring accurate function execution.
